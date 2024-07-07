@@ -4,7 +4,7 @@
 
 getgenv().DNS = {
     General = {
-        Notifications = false
+        Notifications = true,
         FOVMode = "PredictionPoint"
     },
     Silent = {
