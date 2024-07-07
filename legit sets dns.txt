@@ -1,6 +1,10 @@
+--best legit script!
+
+
+
 getgenv().DNS = {
     General = {
-        Notifications = true,
+        Notifications = false
         FOVMode = "PredictionPoint"
     },
     Silent = {
@@ -22,8 +26,8 @@ getgenv().DNS = {
     Camlock = {
         Main = {
             Enabled = true,
-            Key = "C",
-            UnlockKey = "E",
+            Key = "X",
+            UnlockKey = "V",
             SmoothLock = true,
             Smoothness = 0.0492,
             PredictMovement = true,
