@@ -1,7 +1,3 @@
---best legit script!
-
-
-
 getgenv().DNS = {
     General = {
         Notifications = true,
@@ -507,4 +503,4 @@ coroutine.resume(coroutine.create(function()
             task.wait(0.7)
         end
     end
-end))
+end))    
